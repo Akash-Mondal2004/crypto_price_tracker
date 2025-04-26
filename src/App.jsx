@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import CryptoTable from './Components/CryptoTable';
+import CryptoTable from './components/CryptoTable';
 import { store } from './app/store';
 import CryptoApiService from './services/cryptoService';
 
