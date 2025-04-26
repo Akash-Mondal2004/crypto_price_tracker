@@ -2,7 +2,6 @@ import React, { useEffect } from 'react';
 import CryptoTable from './Components/CryptoTable';
 import { store } from './app/store';
 import CryptoApiService from './services/cryptoService';
-import { ThemeProvider } from './context/ThemeContext';
 
 function App() {
   // Create API service instance
@@ -19,10 +18,6 @@ function App() {
   }, []);
 
   return (
-    <ThemeProvider>
-      <div className="min-h-screen transition-colors duration-200 bg-white dark:bg-dark-primary">
-        {/* ...existing code... */}
-      
     <div className="bg-gray-50 min-h-screen">
       <header className="bg-white shadow">
         <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
@@ -37,8 +32,6 @@ function App() {
         <CryptoTable />
       </main>
     </div>
-    </div>
-    </ThemeProvider>
   );
 }
 
