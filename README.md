@@ -62,7 +62,21 @@ npm run build
 
 ## 📸 Screenshots
 
-[Add your screenshots here]
+### Dashboard View
+<img src="src/assets/img1.jpeg" alt="Dashboard" width="800"/>
+<img src="src/assets/img2.jpeg" alt="Dashboard" width="800"/>
+
+### Mobile Responsive Design
+<img src="src/assets/responsive1.png" alt="Mobile View" width="400"/>
+<img src="src/assets/responsive2.png" alt="Mobile View" width="400"/>
+
+<img src="src/assets/responsive3.png" alt="Mobile View" width="400"/>
+
+## 🎥 Video Demo
+
+Watch the full demo video:
+
+[![Video Demo] <img src="src/assets/img1.jpeg" alt="Dashboard" width="800"/>](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## 🤝 Contributing
 
