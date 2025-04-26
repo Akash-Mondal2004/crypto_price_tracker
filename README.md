@@ -76,7 +76,7 @@ npm run build
 
 Watch the full demo video:
 
-[![Video Demo] <img src="src/assets/img1.jpeg" alt="Dashboard" width="800"/>](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Video Demo](https://drive.google.com/file/d/1dnkJbe3XGTCOmfl0hkoHr54GtPew2bz3/view?usp=sharing)](https://drive.google.com/file/d/1dnkJbe3XGTCOmfl0hkoHr54GtPew2bz3/view?usp=sharing)
 
 ## 🤝 Contributing
 
